@@ -1,16 +1,25 @@
-# practice_food_app
+# Hi, I'm Nitta Ranjan Sarker! 👋
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Resturant Food Menu UI
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Other Common Github Profile Sections
+- 🔭 I’m currently working on [Profile-O](https://github.com/nitta02/profile_app)
+
+- 🌱 I’m currently learning **Flutter, Kotlin**
+
+- 👯 I’m looking to collaborate on [Quotes_App](https://github.com/nitta02/Quotes_App)
+
+- 🤝 I’m looking for help with [Quotes_App](https://github.com/nitta02/Quotes_App)
+
+- 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
+
+- 📫 How to reach me **nittaranjantanmoy23@gmail.com**
+## Screenshots
+
+
+![Screenshot_1705935472](https://github.com/nitta02/SImple-Food-App/assets/110607962/bbd60fd3-fa67-4de6-9c5f-f057295245b0)
+![Screenshot_1705935458](https://github.com/nitta02/SImple-Food-App/assets/110607962/5dbfe81b-f94d-4c2f-9227-fddd1317971d)
