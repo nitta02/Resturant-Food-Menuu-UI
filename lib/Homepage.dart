@@ -378,7 +378,7 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       centerTitle: true,
-      backgroundColor: Colors.amberAccent,
+      // backgroundColor: Colors.amberAccent,
       leading: IconButton(onPressed: () {}, icon: Icon(Icons.menu)),
       actions: [
         IconButton(onPressed: () {}, icon: Icon(Icons.more)),
